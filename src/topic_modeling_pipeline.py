@@ -1,4 +1,4 @@
-# Machine Learning Assignment 2: Topic Modeling on Mental Health Social Media Data
+# Machine Learning: Topic Modeling on Mental Health Social Media Data
 # Author: Rohit Kumar Malik
 # Dataset: Sentiment Analysis for Mental Health from Kaggle
 # Objective: Extract and analyze topics from mental health related social media posts
